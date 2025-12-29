@@ -1,22 +1,3 @@
-Project 1: Personal Profile Webpage
-
-A simple personal profile website.
-
-Features you can use:
-
-Headings for sections
-
-Images for your photo
-
-Lists for hobbies & skills
-
-Links to your social media
-
-Inline CSS styles
-
-Paragraphs
-
-Div with class/id for layout
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -345,3 +326,4 @@ int main()
 
     return 0;
 }
+
